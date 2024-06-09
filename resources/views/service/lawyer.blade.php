@@ -1,22 +1,24 @@
 {{-- Lawyer Team --}}
-<section class="bg-white dark:bg-gray-900">
+<section class=" dark:bg-gray-900">
     <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white">Our Attorney</h1>
+        <h1 class="text-2xl font-semibold text-center text-white capitalize lg:text-3xl dark:text-white">Our Attorney</h1>
 
-        <p class="max-w-2xl mx-auto my-6 text-center text-gray-500 dark:text-gray-300">
+        <p class="max-w-2xl mx-auto my-6 text-center text-white dark:text-gray-300">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo incidunt ex placeat modi magni quia error alias, adipisci rem similique, at omnis eligendi optio eos harum.
         </p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">arthur melo</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">arthur melo</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">design director</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">JWC Legal Team</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -25,7 +27,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -34,7 +36,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -45,15 +47,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1531590878845-12627191e687?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Amelia. Anderson</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Amelia Anderson</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Lead Developer</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">Public Attorney</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -62,7 +66,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -71,7 +75,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -82,15 +86,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Olivia Wathan</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Olivia Wathan</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Lead designer</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">Ray&White Legal Team</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -99,7 +105,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -108,7 +114,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -119,15 +125,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">John Doe</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">John Doe</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Full stack developer</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">Deloitte Legal Director</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -136,7 +144,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -145,7 +153,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -156,15 +164,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1499470932971-a90681ce8530?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Mia</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Mia</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Graphic Designer</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">Unilever Legal Team</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -173,7 +183,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -182,7 +192,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -193,15 +203,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1608174386344-80898cec6beb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Junior REIS</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Raul Gustav</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Products Managers</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">BCA Legal Team</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -210,7 +222,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -219,7 +231,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -230,15 +242,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Joseph Gonzalez</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Joseph Gonzalez</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Software engineer</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">Public Defendant</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -247,7 +261,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -256,7 +270,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -267,15 +281,17 @@
                 </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-yellow-500 rounded-xl">
                 <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://images.unsplash.com/photo-1521488741203-dcc320950ce5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="">
 
-                <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Emma Doe</h1>
+                <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Emma Doe</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Content Writer</p>
+                <p class="mt-2 text-white capitalize dark:text-gray-300 group-hover:text-gray-300">Legal Freelance</p>
+
+                <a href="/service-payment"><button type="button" class="transition-colors mt-5 focus:outline-none text-white bg-yellow-400 hover:bg-yellow-700 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Book a Service</button></a>
 
                 <div class="flex mt-3 -mx-2">
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -284,7 +300,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Facebook">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -293,7 +309,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
+                    <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-white dark:hover:text-gray-300 group-hover:text-white" aria-label="Github">
                         <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path

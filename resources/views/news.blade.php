@@ -11,22 +11,22 @@
                     <p class="mt-6 text-sm text-yellow-200 uppercase">Law Category</p>
 
                     <h1 class="max-w-lg mt-4 text-2xl font-semibold leading-tight text-white dark:text-white">
-                        Does the Law Really Protect?
+                        How to Report a Crime Scene
                     </h1>
 
                     <div class="flex items-center my-6">
-                        <img class="object-cover object-center w-10 h-10 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=687&h=687&q=80" alt="">
+                        <img class="object-cover object-center w-10 h-10 rounded-full" src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="">
 
                         <div class="mx-4">
-                            <h1 class="text-sm text-white dark:text-gray-200">Aurelia Puspita</h1>
-                            <p class="text-sm text-white dark:text-gray-400">Marketing Lead</p>
+                            <h1 class="text-sm text-white dark:text-gray-200">Dr. Gavriel, S.Pd</h1>
+                            <p class="text-sm text-white dark:text-gray-400">Deloitte Attorney</p>
                         </div>
                     </div>
 
-                    <p class="mb-3 text-white dark:text-gray-400">Sorting trash on the beach is a very important first step in maintaining environmental cleanliness and preserving the marine ecosystem. In this process, waste must be separated based on type, such as organic waste, plastic, paper and metal. Organic waste can be composted, while plastic, paper and metal can be recycled. To make the sorting process easier, provide several bags or bins with clear labels. Educating volunteers about the importance of sorting waste is also key to the success of this activity. Additionally, ensuring everyone understands the difference between recyclable and non-recyclable waste can reduce the volume of waste that ends up in landfills.</p>
-                    <p class="mb-3 text-white dark:text-gray-400">Waste transport equipment is very helpful in collecting and moving waste from the beach to the processing or final disposal site. Tools such as grabbers or trash tongs can be used to pick up trash without having to bend over, making it more efficient and reducing the risk of injury. Apart from that, trolleys or trash trains can also be used to transport large amounts of waste. Using these tools not only speeds up the cleaning process, but also reduces direct contact with waste that may be hazardous or unhygienic. By using the right tools, the cleaning process can be carried out more quickly and efficiently, allowing volunteers to cover a wider area.</p>
-                    <p class="mb-3 text-white dark:text-gray-400">After the rubbish is collected, the next step is to tie the rubbish bag properly to ensure that no rubbish gets spilled when it is moved. Make sure the trash bag is not too full so that it is easy to tie and doesn't tear easily. Use a strong rope or tie to secure the trash bag. If using a plastic trash bag, fold the top before tying it to ensure there are no leaks. Tying trash bags properly also helps minimize unpleasant odors and prevent wild animals from scavenging the trash. Providing a safe and neat waste collection place will also make the transportation process easier for cleaning staff.</p>
-                    <p class="mb-3 text-white dark:text-gray-400">Efficient team coordination is key to successful beach cleanup activities. Each team member must have clear duties and responsibilities, such as waste sorting, transporting, and bag tying. Determining a team leader who is responsible for coordinating all activities is also very important. Good communication between team members must be maintained, for example by using communication tools such as walkie-talkies for large areas. In addition, conducting a briefing before the activity begins to explain the objectives, methods and safety procedures can increase the efficiency and effectiveness of team work. With good coordination, time and energy can be saved, and the results achieved will be maximized.</p>
+                    <p class="mb-3 text-white dark:text-gray-400">Reporting a crime scene properly is crucial to ensure that justice is served and evidence is preserved. The first step is to ensure personal safety and the safety of others at the scene. Assess the situation from a distance if possible, noting any potential dangers like weapons or hazardous materials. If the crime is still in progress or if there is an immediate threat, call 911 or the relevant emergency number without delay, providing clear, concise information about the location, nature of the crime, and any immediate risks. Staying on the line until the dispatcher says it's okay to hang up can ensure that all necessary details are conveyed.</p>
+                    <p class="mb-3 text-white dark:text-gray-400">Once the immediate threat is managed, it’s vital to secure the scene to preserve evidence. This means keeping the area as undisturbed as possible. Avoid touching or moving anything unless it's absolutely necessary to save a life or prevent further harm. Mark off the area using tape, barriers, or even objects at hand if official materials are not available. Instruct any bystanders to stay clear and avoid contaminating potential evidence. If you can, document the scene with photographs or notes about the positions of objects and any visible evidence, but only if it’s safe and does not interfere with the investigation.</p>
+                    <p class="mb-3 text-white dark:text-gray-400">After securing the scene, provide a detailed report to law enforcement officials when they arrive. This report should include all observations made upon arrival, including the time, conditions, and any individuals present. Be as specific as possible about what you saw, heard, and smelled, as these details can be crucial for investigators. Mention any actions taken to secure the scene and any interactions with witnesses or suspects. Clear, factual reporting can significantly aid the investigation process, ensuring that critical evidence is not overlooked and that the sequence of events is accurately reconstructed.</p>
+                    <p class="mb-3 text-white dark:text-gray-400">Finally, it is essential to cooperate fully with law enforcement and forensic teams. Answer all questions truthfully and provide any additional information or insights that could be relevant. If there are witnesses, encourage them to stay and speak with officers, offering their accounts and any evidence they might have. Following up on any new information you might recall later is also helpful, as even small details can be pivotal. Properly reporting a crime scene is a collective effort that relies on the careful, thoughtful actions of those first on the scene, setting the stage for a thorough and effective investigation.</p>
                 </div>
             </div>
 
@@ -34,40 +34,40 @@
                 <h2 class="mb-6 text-4xl text-white font-bold dark:text-white">More Training</h2>
                 
                 <div>
-                    <h3 class="text-yellow-200 capitalize">Environment</h3>
+                    <h3 class="text-yellow-200 capitalize">Crypto</h3>
 
                     <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-gray-500 dark:text-gray-400 ">
-                        Systems of Garbage Sorting
+                        Reddit's Crypto Stash, Bitcoin Tops $35000
                     </a>
                 </div>
 
                 <hr class="my-6 border-gray-200 dark:border-gray-700">
 
                 <div>
-                    <h3 class="text-yellow-200 capitalize">Technology</h3>
+                    <h3 class="text-yellow-200 capitalize">Property</h3>
 
                     <a href="#" class="block mt-2 font-medium text-white hover:underline hover:text-gray-500 dark:text-gray-400 ">
-                        Getting Started with OceanPals
+                        Over 90% houses in Jakarta was taxed over 55%
                     </a>
                 </div>
 
                 <hr class="my-6 border-gray-200 dark:border-gray-700">
 
                 <div>
-                    <h3 class="text-yellow-200 capitalize">Environment</h3>
+                    <h3 class="text-yellow-200 capitalize">Labor</h3>
 
                     <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-gray-500 dark:text-gray-400 ">
-                        10 Ways to Recreate Art from Waste
+                        Kemenaker says that TKI will have 6% increase of wage
                     </a>
                 </div>
 
                 <hr class="my-6 border-gray-200 dark:border-white ">
 
                 <div>
-                    <h3 class="text-yellow-200 capitalize">Technology</h3>
+                    <h3 class="text-yellow-200 capitalize">Marriage</h3>
 
                     <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-gray-500 dark:text-gray-400 ">
-                        Integrating AI for Photo Judgement
+                        KUA has officialy announce to legalize 5 religions
                     </a>
                 </div>
             </div>
