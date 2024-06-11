@@ -18,11 +18,13 @@
                 {{-- Article Section 1 --}}
                 <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3 ">
                     <div>
-                        <img class="object-cover w-full rounded-lg h-96 "
+                        <a href="/library-detail">
+                            <img class="object-cover w-full rounded-lg h-96 "
                             src="/assets/service/consultation.png"
                             alt="">
-                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 4 - Right to Life</h2>
-                        <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
+                            <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 4 - Right to Life</h2>
+                            <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
+                        </a>
                     </div>
 
                     <div>

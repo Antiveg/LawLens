@@ -36,6 +36,12 @@ class PageController extends Controller
         ]);
     }
 
+    public function viewNewsDetail(){
+        return view('news-detail', [
+            'title' => "News Detail"
+        ]);
+    }
+
     public function viewNews(){
         return view('news', [
             'title' => "News"
@@ -51,6 +57,12 @@ class PageController extends Controller
     public function viewLawLibrary(){
         return view('law-library', [
             'title' => "Law Library"
+        ]);
+    }
+
+    public function viewLawLibraryDetail(){
+        return view('library-detail', [
+            'title' => "Law Library Detail"
         ]);
     }
 

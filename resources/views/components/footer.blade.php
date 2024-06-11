@@ -7,13 +7,13 @@
             <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
             <ul class="text-white dark:text-gray-400 font-medium">
                 <li class="mb-4">
-                    <a href="#" class=" hover:underline">About</a>
+                    <a href="/home" class=" hover:underline">Home</a>
                 </li>
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Careers</a>
+                    <a href="/about-us" class="hover:underline">About Us</a>
                 </li>
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Brand Center</a>
+                    <a href="/law-library" class="hover:underline">Law Library</a>
                 </li>
                 <li class="mb-4">
                     <a href="#" class="hover:underline">Blog</a>

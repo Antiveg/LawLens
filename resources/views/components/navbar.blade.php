@@ -42,6 +42,9 @@
         <a href="/about-us" class="block py-2 px-3 text-white rounded hover:bg-yellow-400 md:hover:bg-transparent md:hover:text-yellow-300 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About Us</a>
       </li>
       <li>
+        <a href="/news" class="block py-2 px-3 text-white rounded hover:bg-yellow-400 md:hover:bg-transparent md:hover:text-yellow-300 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">News</a>
+      </li>
+      <li>
         <a href="/law-library" class="block py-2 px-3 text-white rounded hover:bg-yellow-400 md:hover:bg-transparent md:hover:text-yellow-300 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Law Library</a>
       </li>
     </ul>
