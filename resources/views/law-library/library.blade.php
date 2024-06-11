@@ -9,6 +9,8 @@
                     <a href="#" class="block text-white dark:text-gray-300 hover:underline">Human Rights</a>
                     <a href="#" class="block text-white dark:text-gray-300 hover:underline">Property</a>
                     <a href="#" class="block text-white dark:text-gray-300 hover:underline">Crimes</a>
+                    <a href="#" class="block text-white dark:text-gray-300 hover:underline">Labor</a>
+                    <a href="#" class="block text-white dark:text-gray-300 hover:underline">Marriage</a>
                 </div>
             </div>
 

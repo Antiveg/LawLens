@@ -5,7 +5,7 @@
     <div class="container px-6 py-10 mx-auto">
         <div class="lg:flex lg:-mx-6">
             <div class="lg:w-3/4 lg:px-6">
-                <img class="object-cover object-center w-full h-80 xl:h-[32rem] rounded-xl " src="/assets/news/news-1.png" alt="">
+                <img class="object-cover object-center w-full h-80 xl:h-[32rem] rounded-xl " src="/assets/news/news-1-image.png" alt="">
 
                 <div>
                     <p class="mt-6 text-sm text-yellow-200 uppercase">Law Category</p>
@@ -31,12 +31,12 @@
             </div>
 
             <div class="mt-8 lg:w-1/4 lg:mt-0 lg:px-6">
-                <h2 class="mb-6 text-4xl text-white font-bold dark:text-white">More Training</h2>
+                <h2 class="mb-6 text-4xl text-white font-bold dark:text-white">More News</h2>
                 
                 <div>
                     <h3 class="text-yellow-200 capitalize">Crypto</h3>
 
-                    <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-gray-500 dark:text-gray-400 ">
+                    <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-yellow-200 dark:text-gray-400 ">
                         Reddit's Crypto Stash, Bitcoin Tops $35000
                     </a>
                 </div>
@@ -46,7 +46,7 @@
                 <div>
                     <h3 class="text-yellow-200 capitalize">Property</h3>
 
-                    <a href="#" class="block mt-2 font-medium text-white hover:underline hover:text-gray-500 dark:text-gray-400 ">
+                    <a href="#" class="block mt-2 font-medium text-white hover:underline hover:text-yellow-200 dark:text-gray-400 ">
                         Over 90% houses in Jakarta was taxed over 55%
                     </a>
                 </div>
@@ -56,7 +56,7 @@
                 <div>
                     <h3 class="text-yellow-200 capitalize">Labor</h3>
 
-                    <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-gray-500 dark:text-gray-400 ">
+                    <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-yellow-200 dark:text-gray-400 ">
                         Kemenaker says that TKI will have 6% increase of wage
                     </a>
                 </div>
@@ -66,7 +66,7 @@
                 <div>
                     <h3 class="text-yellow-200 capitalize">Marriage</h3>
 
-                    <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-gray-500 dark:text-gray-400 ">
+                    <a href="#" class="block mt-2 font-medium text-white  hover:underline hover:text-yellow-200 dark:text-gray-400 ">
                         KUA has officialy announce to legalize 5 religions
                     </a>
                 </div>

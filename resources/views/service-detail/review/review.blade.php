@@ -76,17 +76,17 @@
                     <form class="mt-6" action="/home">
                         <div class="flex-1">
                             <label class="block mb-2 text-sm text-white dark:text-gray-200">Full Name</label>
-                            <input type="text" placeholder="John Doe" class="block w-full px-5 py-3 mt-2 text-white placeholder-gray-400 bg-white border border-gray-200 rounded-md dark:placeholder-white dark:bg-gray-900 dark:text-gray-300 dark:border-white focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40" />
+                            <input type="text" placeholder="John Doe" class="block w-full px-5 py-3 mt-2 text-zinc-800 placeholder-gray-400 bg-white border border-gray-200 rounded-md dark:placeholder-white dark:bg-gray-900 dark:text-gray-300 dark:border-white focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40" />
                         </div>
 
                         <div class="flex-1 mt-6">
                             <label class="block mb-2 text-sm text-white dark:text-gray-200">Email</label>
-                            <input type="email" placeholder="johndoe@example.com" class="block w-full px-5 py-3 mt-2 text-white placeholder-gray-400 bg-white border border-gray-200 rounded-md dark:placeholder-white dark:bg-gray-900 dark:text-gray-300 dark:border-white focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40" />
+                            <input type="email" placeholder="johndoe@example.com" class="block w-full px-5 py-3 mt-2 text-zinc-800 placeholder-gray-400 bg-white border border-gray-200 rounded-md dark:placeholder-white dark:bg-gray-900 dark:text-gray-300 dark:border-white focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40" />
                         </div>
 
                         <div class="w-full mt-6">
                             <label class="block mb-2 text-sm text-white dark:text-gray-200">Review</label>
-                            <textarea class="block w-full h-32 px-5 py-3 mt-2 text-white placeholder-gray-400 bg-white border border-gray-200 rounded-md md:h-48 dark:placeholder-white dark:bg-gray-900 dark:text-gray-300 dark:border-white focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40" placeholder="Write all of your experience here..."></textarea>
+                            <textarea class="block w-full h-32 px-5 py-3 mt-2 text-zinc-800 placeholder-gray-400 bg-white border border-gray-200 rounded-md md:h-48 dark:placeholder-white dark:bg-gray-900 dark:text-gray-300 dark:border-white focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40" placeholder="Write all of your experience here..."></textarea>
                         </div>
 
                         <button class="w-full px-4 py-2 mt-6 tracking-wide text-white capitalize transition-colors duration-300 transform bg-yellow-400 rounded-md hover:bg-yellow-600 focus:outline-none focus:bg-yellow-600 focus:ring focus:ring-blue-300 focus:ring-opacity-80">

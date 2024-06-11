@@ -6,9 +6,9 @@
             </h1>
 
             <div class="flex mx-auto mt-6">
-                <span class="inline-block w-40 h-1 bg-yellow-500 rounded-full"></span>
-                <span class="inline-block w-3 h-1 mx-1 bg-yellow-500 rounded-full"></span>
-                <span class="inline-block w-1 h-1 bg-yellow-500 rounded-full"></span>
+                <span class="inline-block w-40 h-1 bg-yellow-400 rounded-full"></span>
+                <span class="inline-block w-3 h-1 mx-1 bg-yellow-400 rounded-full"></span>
+                <span class="inline-block w-1 h-1 bg-yellow-400 rounded-full"></span>
             </div>
         </div>
     </div>
@@ -23,8 +23,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">LICENSING</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, corrupti.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Assistance with obtaining and maintaining various legal permits and licenses for businesses and individuals.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -42,8 +42,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">MARRIAGE</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, id.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Guidance and legal support for marriage-related matters, including prenuptial agreements and marriage registration.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -60,8 +60,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">LABOR LAW</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, fugit.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Expertise in employment regulations, worker rights, and dispute resolution between employers and employees.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -78,8 +78,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">PROPERTY</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iusto.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Legal services for property transactions, ownership disputes, and real estate contracts.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -96,8 +96,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">CRIMES</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iusto.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Defense and representation in criminal cases, ensuring the protection of your legal rights.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -114,8 +114,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">CONSULTATION</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iusto.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Professional legal advice and strategic planning tailored to your specific needs and concerns.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -132,8 +132,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">TRADE</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iusto.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Legal support for commercial transactions, international trade regulations, and business agreements.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -150,8 +150,8 @@
                 <a href="/service">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">COPYRIGHT</h5>
                 </a>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iusto.</p>
-                <a href="/service" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-500 rounded-lg hover:bg-yellow-600 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Protection and enforcement of intellectual property rights, including registration and infringement issues.</p>
+                <a href="/service" class="transition-all inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Read more
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>

@@ -4,7 +4,7 @@
         <h1 class="text-2xl font-semibold text-center text-white capitalize lg:text-3xl dark:text-white">Our Attorney</h1>
 
         <p class="max-w-2xl mx-auto my-6 text-center text-white dark:text-gray-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo incidunt ex placeat modi magni quia error alias, adipisci rem similique, at omnis eligendi optio eos harum.
+            Meet the attorneys at LawLens, where expertise and dedication converge to provide exceptional legal services. Our team is composed of seasoned professionals who specialize in various legal fields.
         </p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">

@@ -6,9 +6,9 @@
             </h1>
 
             <div class="flex mx-auto mt-6">
-                <span class="inline-block w-40 h-1 bg-yellow-500 rounded-full"></span>
-                <span class="inline-block w-3 h-1 mx-1 bg-yellow-500 rounded-full"></span>
-                <span class="inline-block w-1 h-1 bg-yellow-500 rounded-full"></span>
+                <span class="inline-block w-40 h-1 bg-yellow-400 rounded-full"></span>
+                <span class="inline-block w-3 h-1 mx-1 bg-yellow-400 rounded-full"></span>
+                <span class="inline-block w-1 h-1 bg-yellow-400 rounded-full"></span>
             </div>
         </div>
     </div>

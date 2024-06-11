@@ -2,12 +2,12 @@
     <div class="container px-6 py-8 mx-auto">
         <div class="xl:items-center xl:-mx-8 xl:flex">
             <div class="flex flex-col items-center xl:items-start xl:mx-8">
-                <h1 class="text-2xl font-medium text-yellow-200 capitalize lg:text-3xl dark:text-white">Our Pricing Plan</h1>
+                <h1 class="text-2xl font-medium text-yellow-300 capitalize lg:text-3xl dark:text-white">Our Pricing Plan</h1>
 
                 <div class="mt-4">
-                    <span class="inline-block w-40 h-1 bg-yellow-200 rounded-full"></span>
-                    <span class="inline-block w-3 h-1 mx-1 bg-yellow-200 rounded-full"></span>
-                    <span class="inline-block w-1 h-1 bg-yellow-200 rounded-full"></span>
+                    <span class="inline-block w-40 h-1 bg-yellow-300 rounded-full"></span>
+                    <span class="inline-block w-3 h-1 mx-1 bg-yellow-300 rounded-full"></span>
+                    <span class="inline-block w-1 h-1 bg-yellow-300 rounded-full"></span>
                 </div>
 
                 <p class="mt-4 font-medium text-white dark:text-gray-300">
@@ -22,7 +22,7 @@
                             <h1 class="text-xl font-medium text-white capitalize lg:text-2xl dark:text-white">Starter</h1>
 
                             <p class="mt-4 text-white dark:text-gray-300">
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus
+                                Our Starter plan offers a cost-effective solution for those needing initial legal advice and support.
                             </p>
 
                             <h2 class="mt-4 text-2xl font-semibold text-white sm:text-3xl dark:text-gray-300">$10.00 <span class="text-base font-medium">/Session</span></h2>
@@ -100,7 +100,7 @@
                             <h1 class="text-xl font-medium text-white capitalize lg:text-2xl dark:text-white">Premium</h1>
 
                             <p class="mt-4 text-white dark:text-gray-300">
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus
+                                Our Premium plan provides comprehensive legal support for more complex cases. Eventually more support for you
                             </p>
 
                             <h2 class="mt-4 text-2xl font-semibold text-white sm:text-3xl dark:text-gray-300">$50.00 <span class="text-base font-medium">/Once</span></h2>
