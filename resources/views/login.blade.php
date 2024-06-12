@@ -16,9 +16,7 @@
                         <h2 class="text-2xl font-bold text-white sm:text-3xl">LawLens</h2>
     
                         <p class="max-w-xl mt-3 text-gray-300">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. In
-                            autem ipsa, nulla laboriosam dolores, repellendus perferendis libero suscipit nam temporibus
-                            molestiae
+                            Dive in to LawLens to experience the feeling of comfort when it comes to law related. Sign in to continue your journey and solve all of your problems in one go!
                         </p>
                     </div>
                 </div>
