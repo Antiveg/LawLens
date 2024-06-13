@@ -13,10 +13,10 @@
                     <a href="/about-us" class="hover:underline">About Us</a>
                 </li>
                 <li class="mb-4">
-                    <a href="/law-library" class="hover:underline">Law Library</a>
+                    <a href="/news" class="hover:underline">News</a>
                 </li>
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Blog</a>
+                    <a href="/law-library" class="hover:underline">Law Library</a>
                 </li>
             </ul>
         </div>
