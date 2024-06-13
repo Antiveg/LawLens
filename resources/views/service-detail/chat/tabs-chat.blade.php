@@ -10,8 +10,8 @@
     </a>
     
     <a href="/service-chat">
-        <button class="inline-flex items-center h-10 px-2 py-2 -mb-px text-center text-yellow-200 bg-transparent border-b-2 border-yellow-200 sm:px-4 -px-1 dark:border-blue-400 dark:text-blue-300 whitespace-nowrap focus:outline-none">
-            <div class="w-4 h-4 mx-1 sm:w-6 sm:h-6 bg-yellow-200" style="mask: url('/assets/icon/chat-icon.svg') no-repeat center / contain;"></div>
+        <button class="inline-flex items-center h-10 px-2 py-2 -mb-px text-center text-yellow-300 bg-transparent border-b-2 border-yellow-300 sm:px-4 -px-1 dark:border-blue-400 dark:text-blue-300 whitespace-nowrap focus:outline-none">
+            <div class="w-4 h-4 mx-1 sm:w-6 sm:h-6 bg-yellow-300" style="mask: url('/assets/icon/chat-icon.svg') no-repeat center / contain;"></div>
     
             <span class="mx-1 text-sm sm:text-base">
                 Chat
