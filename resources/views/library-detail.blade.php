@@ -14,19 +14,19 @@
                 Library
             </a>
             {{-- <p class="text-base font-semibold leading-7 text-indigo-600">Deploy faster</p> --}}
-            <h1 class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Article 1 - Law Enforcement</h1>
-            <p class="mt-6 text-xl leading-8 text-white">"A well-managed property is the one with the owner that does tax over discarding it"</p>
+            <h1 class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Article 12 - Law Enforcement</h1>
+            <p class="mt-6 text-xl leading-8 text-white">"Effective law enforcement is the backbone of a safe society, blending advanced technology, community engagement, and unwavering ethical standards to protect and serve with integrity."</p>
             </div>
         </div>
     </div>
     <div class="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-        <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/assets/service/consultation.png" alt="">
+        <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/assets/law-library/law-enforcement.png" alt="">
     </div>
     <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
         <div class="lg:pr-4">
             <div class="max-w-xl text-base leading-7 text-white lg:max-w-lg">
-                <p>At LawLens, we understand the complexities and nuances of property law, which governs the various forms of ownership and rights in both real and personal property. Our expert attorneys are adept at handling a wide range of property-related issues, from real estate transactions and property disputes to matters involving intellectual property. Whether you are buying or selling a property, dealing with boundary disputes, or facing issues with landlord-tenant relationships, our team provides comprehensive legal support to ensure your rights and interests are fully protected.</p>
-                <p class="mt-8">A well-managed property is not only a valuable asset but also a source of peace of mind. At LawLens, we assist property owners with all legal aspects of property management, including tax obligations and compliance. Our services extend to helping clients navigate the complexities of property exchanges through contract law and addressing any violations through tort law. With our dedicated and experienced attorneys by your side, you can confidently manage, protect, and enhance your property investments.</p>
+                <p>Law enforcement agencies play a crucial role in maintaining public safety and upholding the rule of law. These agencies, which include local police departments, sheriff's offices, state police, and federal organizations such as the FBI, are tasked with a wide range of responsibilities. Their primary duties involve preventing and investigating crimes, apprehending offenders, and ensuring community safety through regular patrolling and community engagement. Effective law enforcement requires collaboration with the community, leveraging technology, and adhering to legal and ethical standards to build trust and legitimacy. As societies evolve, law enforcement agencies continuously adapt their strategies to address new challenges such as cybercrime, terrorism, and drug trafficking.</p>
+                <p class="mt-8">Modern law enforcement is increasingly characterized by the integration of advanced technologies and data-driven approaches. Innovations such as predictive policing, body-worn cameras, and forensic science enhancements have revolutionized crime detection and prevention. Additionally, the emphasis on community-oriented policing aims to foster better relationships between law enforcement officers and the communities they serve, promoting mutual trust and cooperation. Training programs focusing on de-escalation, cultural competency, and mental health awareness are essential for officers to effectively handle diverse and complex situations. Despite facing challenges like public scrutiny and resource constraints, law enforcement agencies remain committed to their mission of safeguarding citizens and maintaining social order.</p>
             </div>
             </div>
         </div>

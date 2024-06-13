@@ -20,16 +20,16 @@
                     <div>
                         <a href="/library-detail">
                             <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/consultation.png"
+                            src="/assets/law-library/law-enforcement.png"
                             alt="">
-                            <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 4 - Right to Life</h2>
-                            <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
+                            <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 12 - Law Enforcement</h2>
+                            <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">SAFETY</p>
                         </a>
                     </div>
 
                     <div>
                         <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/khusus.png"
+                            src="/assets/law-library/thief.png"
                             alt="">
                         <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 362 - Theft</h2>
                         <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Crimes</p>
@@ -37,26 +37,28 @@
 
                     <div>
                         <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/permission.png"
+                            src="/assets/law-library/life.png"
                             alt="">
-                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 1 - Sovereignty</h2>
+                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 1 - Life</h2>
                         <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
                     </div>
                 </div>
 
                 {{-- Article Section 2 --}}
-                <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3 mt-10">
+                <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3 mt-8">
                     <div>
-                        <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/consultation.png"
+                        <a href="/library-detail">
+                            <img class="object-cover w-full rounded-lg h-96 "
+                            src="/assets/law-library/law-enforcement.png"
                             alt="">
-                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 4 - Right to Life</h2>
-                        <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
+                            <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 12 - Law Enforcement</h2>
+                            <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">SAFETY</p>
+                        </a>
                     </div>
 
                     <div>
                         <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/khusus.png"
+                            src="/assets/law-library/thief.png"
                             alt="">
                         <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 362 - Theft</h2>
                         <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Crimes</p>
@@ -64,26 +66,28 @@
 
                     <div>
                         <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/permission.png"
+                            src="/assets/law-library/life.png"
                             alt="">
-                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 1 - Sovereignty</h2>
+                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 1 - Life</h2>
                         <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
                     </div>
                 </div>
 
                 {{-- Article Section 3 --}}
-                <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3 mt-10">
+                <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3 mt-8">
                     <div>
-                        <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/consultation.png"
+                        <a href="/library-detail">
+                            <img class="object-cover w-full rounded-lg h-96 "
+                            src="/assets/law-library/law-enforcement.png"
                             alt="">
-                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 4 - Right to Life</h2>
-                        <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
+                            <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 12 - Law Enforcement</h2>
+                            <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">SAFETY</p>
+                        </a>
                     </div>
 
                     <div>
                         <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/khusus.png"
+                            src="/assets/law-library/thief.png"
                             alt="">
                         <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 362 - Theft</h2>
                         <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Crimes</p>
@@ -91,9 +95,9 @@
 
                     <div>
                         <img class="object-cover w-full rounded-lg h-96 "
-                            src="/assets/service/permission.png"
+                            src="/assets/law-library/life.png"
                             alt="">
-                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 1 - Sovereignty</h2>
+                        <h2 class="mt-4 text-xl font-semibold text-white capitalize dark:text-white">Article 1 - Life</h2>
                         <p class="mt-2 text-lg tracking-wider text-yellow-200 uppercase dark:text-blue-400 ">Human Rights</p>
                     </div>
                 </div>
